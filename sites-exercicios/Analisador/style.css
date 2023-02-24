@@ -1,0 +1,32 @@
+body{
+background: rgb(114, 114, 231);
+font: normal 15pt Arial;
+background-image: url(https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47gwkgg8um0y1ucuvvuab4yr3siniffkss7f70nms0&rid=giphy.gif&ct=g);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    text-shadow: 3px 3px 3px rgba(255, 236, 232, 0.836);
+    border-radius: 5px;
+}
+
+section{
+background: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.199);
+}
+
+footer{
+    color: rgb(166, 245, 255);
+    text-align: center;
+    font-style: italic;
+}
